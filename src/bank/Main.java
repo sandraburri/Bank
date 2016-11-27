@@ -7,5 +7,4 @@ public class Main {
 		ATM atm = new ATM(bank);
 		atm.run();
 	}
-
 }
